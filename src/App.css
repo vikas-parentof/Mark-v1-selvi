@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans");
+
+:root {
+  --primaryColor: #5fb7ea;
+  --primaryRGBA: rgba(0, 0, 0, 0.3);
+  --mainGrey: #fafafa;
+  --darkGrey: #5f5e5e;
+  --mainWhite: #fff;
+  --mainBlack: #222;
+  --mainTransition: all 0.3s ease-in-out;
+  --mainSpacing: 0.3rem;
+}
+.loader {
+  position: fixed;
+  left: 0px;
+  top: 0px; 
+  width: 100%;
+  height: 80%;
+  z-index: 9999;
+margin-top: 5%;
+  background:  url("images/load2.gif") center no-repeat #fff;
+  
+}
+.text-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  letter-spacing: var(--mainSpacing);
+  text-transform: capitalize;
+}
+.text-main {
+  color: var(--primaryColor);
+}
+body {
+  font-family: "Open Sans", sans-serif !important;
+  background: var(--mainGrey) !important;
+  color: var(--mainBlack);
+}
+.main-link {
+  padding: 0.5rem 1rem;
+  background: var(--primaryColor);
+  color: var(--mainWhite);
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  outline: 2px solid var(--primaryColor);
+  outline-offset: 4px;
+  border: none;
+  transition: var(--mainTransition);
+}
+.main-link:hover {
+  background: var(--darkGrey);
+  text-decoration: none;
+  color: var(--primaryColor);
+  outline-color: var(--darkGrey);
+}
+.main-link-icon:hover {
+  color: var(--darkGrey);
+}
+.main-link-icon {
+  color: var(--primaryColor);
+}
+.cart-icon {
+  cursor: pointer;
+}

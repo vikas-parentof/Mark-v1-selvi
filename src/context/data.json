@@ -1,0 +1,162 @@
+[
+    {
+        "sys": {
+            "id": 0
+        },
+        "fields": {
+            "title": "EGG-Omlette",
+            "price": 10,
+            "company": "Egg",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": true,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-0.jpg"
+                    }
+                }
+            },
+            "freeShipping": false
+        }
+    },
+    {
+        "sys": {
+            "id": 1
+        },
+        "fields": {
+            "title": "French-Fries",
+            "price": 20,
+            "company": "Potato",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": false,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-1.jpg"
+                    }
+                }
+            },
+            "freeShipping": true
+        }
+    },
+    {
+        "sys": {
+            "id": 2
+        },
+        "fields": {
+            "title": "chicken-drumstick",
+            "price": 30,
+            "company": "Chicken",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": false,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-2.jpg"
+                    }
+                }
+            },
+            "freeShipping": false
+        }
+    },
+    {
+        "sys": {
+            "id": 3
+        },
+        "fields": {
+            "title": "KFC chicken-fry",
+            "price": 15,
+            "company": "Chicken",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": true,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-3.jpg"
+                    }
+                }
+            },
+            "freeShipping": false
+        }
+    },
+    {
+        "sys": {
+            "id": 4
+        },
+        "fields": {
+            "title": "Fish-Cutlet",
+            "price": 45,
+            "company": "Fish",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": false,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-4.jpg"
+                    }
+                }
+            },
+            "freeShipping": false
+        }
+    },
+    {
+        "sys": {
+            "id": 5
+        },
+        "fields": {
+            "title": "Dum aloo",
+            "price": 55,
+            "company": "Potato",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": false,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-5.jpg"
+                    }
+                }
+            },
+            "freeShipping": true
+        }
+    },
+    {
+        "sys": {
+            "id": 6
+        },
+        "fields": {
+            "title": "veg-rice",
+            "price": 20,
+            "company": "Rice",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": true,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-6.jpg"
+                    }
+                }
+            },
+            "freeShipping": true
+        }
+    },
+    {
+        "sys": {
+            "id": 7
+        },
+        "fields": {
+            "title": "EGG-rice",
+            "price": 20,
+            "company": "Rice",
+            "description": "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+            "featured": false,
+            "image": {
+                "fields": {
+                    "file": {
+                        "url": "img/product-7.jpg"
+                    }
+                }
+            },
+            "freeShipping": false
+        }
+    }
+]
